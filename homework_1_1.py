@@ -1,5 +1,5 @@
 # Sum up a and b. Write expression to the result_sum variable
-
+"""
 a = 10
 b = 15
 result_sum = None
@@ -64,3 +64,4 @@ o = 100
 result_negative = None
 result_negative= -(o)
 print(result_negative)
+"""
