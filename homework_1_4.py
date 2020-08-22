@@ -1,13 +1,10 @@
 # Create three strings using three different methods. Save your result to result_string_1, result_string_2,
 # result_string_3 variables
 
-string_4="This is python"
-result_string_1 = string_4.upper()
-result_string_2 = string_4.lower()
-result_string_3 = string_4.capitalize()
-print(result_string_1)
-print(result_string_2)
-print(result_string_3)
+result_string_1 ="This is python"
+result_string_2 = 'This is python'
+result_string_3 = """This is python"""
+
 # Enter your first and  last name. Join them together with a space in
 # between. Save a result in a variable result_full_name and
 # save the length of the whole name in result_full_name_length variable.
